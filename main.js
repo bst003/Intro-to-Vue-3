@@ -12,4 +12,8 @@ const app = Vue.createApp({
 =======
     } 
 })
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+
 >>>>>>> Stashed changes
