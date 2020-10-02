@@ -6,5 +6,10 @@ const app = Vue.createApp({
             inventory: 0,
             onSale: true
         }
+<<<<<<< Updated upstream
     }
 });
+=======
+    } 
+})
+>>>>>>> Stashed changes
